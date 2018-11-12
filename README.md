@@ -1,32 +1,27 @@
 # Project 1 - Log-In-Activity
 
-Log-In-Activity shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+Log-In-Activity is a clone of the sign in page of vines.
 
-Time spent: 12 hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [ ] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+* [ ] User can enter their log in information( username/email and password) to log in to the app.
 
-* [ ] Views should be responsive for both landscape/portrait mode.
-      * [ ] In portrait mode, the poster image, title, and movie overview is shown.
-      * [ ] In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
+* [ ] Users can also reset their password.
 
-The following **optional** features was implemented:
+
+## The following **optional** features was implemented:
 
 * [ ] Improved the user interface by experimenting with styling and coloring.
 
 
 ## Notes
 
-I was fairly successful in finding my way out to building this app. The only problem i have was when the final product was complete, it could not be displayed in the emulator. The app was working correctly in the emulator all along as i have build and run it periodically.
+This activity was fairly challenging. In the future, i will be doing more experimenting in trying to improve the user interface.
 
-## Open-source libraries used
-
-- [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 ## License
 
